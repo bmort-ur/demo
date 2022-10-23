@@ -7,6 +7,6 @@ Demo for DSCC 201/401
 This repository is a demo for DSCC 201/401.
 It will show how Git and GitHub works.
 
-## Part 1
+## Documentation
 
-This is text for Part 1
+hello.r - Prints "Hello, world!"
