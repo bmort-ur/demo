@@ -13,4 +13,4 @@ hello.r - Prints "Hello, world!"
 
 ## Information
 
-This work was developed at the University of Rochester. Copyright 2024.
+This work was developed at the University of Rochester. Copyright 2025.
